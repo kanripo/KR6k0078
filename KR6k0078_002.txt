@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:43:54.188277
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:26
 #+TITLE: 菩薩戒義疏
 #+PROPERTY: CBETA_ID T40n1811
 #+PROPERTY: ID KR6k0078
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 40, No. 1811
 #+PROPERTY: VOL 40
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6k0078_T_002-0571b> ¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 菩薩戒義疏卷下¶
+菩薩戒義疏卷下¶
 ¶
 隋天台智者大師說¶
 門人灌頂記¶
